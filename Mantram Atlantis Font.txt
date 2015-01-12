@@ -1,0 +1,18 @@
+Triangle as Height 10
+Circle as Diameter 09
+Key a Total Height 08
+Diamond has Height 07
+At with a center a 01
+Begins with center 03
+Very with center a 03
+Vary with center a 01
+Ring line with was 01
+Weight a half ring .5
+Holdset weight and 01
+Key separated with 01
+Hefty has height a 04
+Delta line made a 2.5
+
+Triangle:Base,Top’Left;Right.Delta-Hefty•Heavy,
+Circle:Center,At•Begin;Very o
+
