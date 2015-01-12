@@ -1,0 +1,118 @@
+0:Connected{controls}’forth/respond/set;{with}’as\correspond\see:1
+
+0. Connected
+  
+   A Radiant is connected client and server to represent real-time functionality
+
+     Controls ‘ (are carried by ownership)
+
+     Controls for the user interface are established
+
+       | Forth
+
+         The control responds to events from now on
+
+       \ Respond
+
+         This handler will receive events after forth has been set
+
+       - Set
+
+         The series of events has ceased ; (operations continue as normal)
+
+     With
+
+     With a specific control
+
+       As
+
+       Name of the control
+
+       Correspond
+
+       Issue statement that event has arrived
+
+       See
+
+       Deliver scient object representing presence
+
+1:Alignment|absolute|;internal/external!|side|;relative\familiar:2
+
+1. Alignment
+
+   Process of alignment establishes internal and external event streams
+
+     Absolute ;
+
+     Absolute nature of statement sets events to internal or external
+
+       - Internal
+       \ External
+
+     Side ;
+
+     Resultant event stream is sided relative and familiar
+
+       Relative
+
+       Queue of events is retrieved
+
+       Familiar/Extended
+
+       
+
+2:Cognizant<transfer>!keep/pass/down/up?<call>!seed\than\fall\be:3
+3:Operative[platform]?use/notify/switch.[form]?grow\for\complete:4
+
+3. Operative
+
+   The Operatives exist upon a platform
+
+     Platform ?
+     
+     Groundwork for graphical interface exists as a platform
+
+       Use
+
+       Tie a session to an interface
+
+       Notify
+
+       Send notification to a cognizant element
+
+       Switch
+
+       Switch from an existing platform to another
+
+4:Registrar•identity•.connect/reconnect,•gain•.qualify\residence:5
+
+4. Registrar
+
+   The Registrar maintains live sessions
+
+     Identity .
+
+     Find user session by supplying an Identity
+
+       - Connect
+
+         Connect to existing merit
+
+       \ Reconnect
+
+         Reconnect to established owner session
+
+     Gain .
+
+     Accessible events are gained
+
+       - Qualify
+
+         Check event process with chat
+
+       / Residence
+
+         deliver established residence of gain
+
+ 
+5:Mechanism(autonomy),cognize/entrant/z’(base),that\restore\know:0
