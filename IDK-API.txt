@@ -62,6 +62,35 @@
        
 
 2:Cognizant<transfer>!keep/pass/down/up?<call>!seed\than\fall\be:3
+
+2. Cognizant
+
+   Handling event sets
+
+     Transfer !
+     
+     I accept this event set with four possible actions
+
+       Keep
+
+       Keep event set
+
+       Pass
+
+       Send an event
+
+       Down
+
+       New event arrival
+
+       Up
+
+       New object exists
+
+     Call !
+
+            
+ 
 3:Operative[platform]?use/notify/switch.[form]?grow\for\complete:4
 
 3. Operative
@@ -78,11 +107,27 @@
 
        Notify
 
-       Send notification to a cognizant element
+       Send notification to the ground
 
        Switch
 
        Switch from an existing platform to another
+
+     Form ?
+
+     Facilitate submission process
+
+       Grow
+
+       Develop result of notification
+
+       For
+
+       Specify recipient
+
+       Complete
+
+       Initiate completion
 
 4:Registrar•identity•.connect/reconnect,•gain•.qualify\residence:5
 
