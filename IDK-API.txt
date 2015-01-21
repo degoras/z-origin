@@ -10,15 +10,15 @@
 
        | Forth
 
-         The control responds to events from now on
+         An evoker has commenced listening
 
        \ Respond
 
-         This handler will receive events after forth has been set
+         This handler will handle events after forth has been set
 
        - Set
 
-         The series of events has ceased ; (operations continue as normal)
+         The control responds to these events
 
      With
 
@@ -26,15 +26,15 @@
 
        As
 
-       Name of the control
+         Name of the control
 
        Correspond
 
-       Issue statement that event has arrived
+         Issue statement that event has arrived
 
        See
 
-       Deliver scient object representing presence
+         Event has been received
 
 1:Alignment|absolute|;internal/external!|side|;relative\familiar:2
 
@@ -113,7 +113,7 @@
 
        Switch from an existing platform to another
 
-     Form ?
+     . Form
 
      Facilitate submission process
 
@@ -147,17 +147,53 @@
 
          Reconnect to established owner session
 
-     Gain .
+     , Gain
 
      Accessible events are gained
 
        - Qualify
 
-         Check event process with chat
+         Check connect/reconnect process with chat
 
        / Residence
 
-         deliver established residence of gain
+         return established residence
 
  
 5:Mechanism(autonomy),cognize/entrant/z’(base),that\restore\know:0
+
+5. Mechanism
+
+   Z-Origin home page
+
+     Autonomy ,
+
+     Sets the Stage
+
+       - Cognize
+
+         Load Z-Origin infrastructure
+
+       \ Entrant
+
+         Entrance point for communications
+
+       | Z
+
+         Web Socket connected to Z-Origin.net
+
+     ‘ Base
+
+     Yield infrastructure
+
+       / That
+
+         Basis for closure
+
+       - Restore
+
+         Send infrastructure as it was
+
+       | Know
+
+         Immediate state sent

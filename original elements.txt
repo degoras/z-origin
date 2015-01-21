@@ -1,6 +1,21 @@
-fire{radiant}controls’(starts/forth/respond/set);with’(regard\as\correspond\see)
-water|stream|absolute;(shapes/internal/external)!side;(pivots\relative\familiar)
-earth<events>transfer!(entity/keep/pass/down/up)?call!(reason\seed\than\fall\be)
-space[ground]platform?(spread/use/notify/switch).form?(normal\grow\for\complete)
-air•entities•identity.(origin/connect/reconnect),gain.(events\qualify\residence)
-dream(island)autonomy,(vacuum/cognize/entrant/z)’base,(nature\that\restore\know)
+fire{radiant}controls’(starts/forth/respond/set);with’(regard/as/correspond/see)
+water|stream|absolute;(shapes/internal/external)!side;(pivots/relative/familiar)
+earth<events>transfer!(entity/keep/pass/down/up)?call!(reason/seed/than/fall/be)
+space[ground]platform?(spread/use/notify/switch).form?(normal/grow/for/complete)
+air•entities•identity.(origin/connect/reconnect),gain.(events/qualify/residence)
+dream(island)autonomy,(vacuum/cognize/entrant/z)’base,(nature/that/restore/know)
+
+simplified:
+
+Class   Element Entrance  Evokers            Shed  Shadow
+radiant fire    controls:(forth/respond/set) with:(as/correspond/see)
+crystal water   absolute:(internal/external) side:(relative/extended)
+entrant earth   transfer:(keep/pass/down/up) call:(seed/than/fall/be)
+sequent space   platform:(use/notify/switch) form:(grow/for/complete)
+horizon air     identity:(connect/reconnect) gain:(qualify/residence)
+unicorn dream   autonomy:(cognize/entrant/z) base:(that/restore/know)
+
+
+me us on up in as of my
+
+my is weight kept on both sides of the connection, to be lifted by a response
