@@ -1,0 +1,66 @@
+<html>
+<head>
+<!-- script language="JavaScript" src="event_emitter.js"></script -->
+<!-- script language="JavaScript" src="cookie.js"></script -->
+<script language="JavaScript" src="md5-min.js"></script>
+<script language="JavaScript" src="TimeClient.js"></script>
+<script langauge="JavaScript" src="rbtree.js"></script>
+<!--script language="JavaScript" src="GSOP.js"></script-->
+<script language="JavaScript">
+
+window.onload=function() {
+	Time("ws://localhost:5000/");
+	Time.Receive(
+		function(M) {
+			alert(JSON.stringify(M));
+		}
+	);
+	Time.Onlock(
+		function(Y) {
+			alert( Y ? "Connected!" : "No Connection...");
+		}
+	);
+/*
+	var Sow = Mechanism.Entrance({
+		Forth: 'value', Internal: 'value',
+		Keep: 'value', Use: 'value',
+		Connect: 'value', Cognize: 1
+	});
+	alert(Sow);
+*/
+//Load the library
+// var createTree = require("functional-red-black-tree")
+
+//Create a tree
+	var t1 = createRBTree();
+
+//Insert some items into the tree
+	var t2 = t1.insert('hg56ui87', "foo");
+	var t3 = t2.insert('hg56ui87', "bar");
+	var t4 = t3.insert('hg56ui87', "maz");
+
+//Remove something
+//	var t4 = t3.remove(1);
+	
+	console.log(t4.values);
+}
+
+
+</script>
+</head>
+<body>
+
+<a href="javascript:Time.Now({key: 'now value'});" return=false >Now</a><br />
+<a href="javascript:Time.Present({key: 'present value'});" return=false >Present</a><br />
+<a href="javascript:Time.Any({key: 'any value'});" return=false >Any</a><br />
+<a href="javascript:Time.Will({key: 'will value'});" return=false >Will</a><br />
+<a href="javascript:Time.Lack({key: 'lack value'});" return=false >Lack</a><br />
+<a href="javascript:Time.Onlock(
+	function(Y) {
+		alert( Y ? 'Connected!' : 'No connection...');
+	}
+);" return=false >Onlock</a><br />
+<a href="javascript:Time.Fault();" return=false >Fault</a><br />
+
+</body>
+</html>

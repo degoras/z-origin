@@ -1,0 +1,14 @@
+on socket connect, establish identity with registrar
+for each socket, create application hooks
+create additional application specific heck (subscription)
+upon publishing to a radius-defined location, find set of sockets and match them with heck
+then with hecked sockets call application hook
+
+me.us.on hook is on the server side, but the client specifies it with a choice at a time
+subscription exists that way on server side
+
+my hook exists as a specifier kept on client and server sides
+when an evoker matches the subscription, event matter is shed
+objects sent over socket are appropriate to the hook and a my
+in order for full duplex transmission to work the evokers and
+the shards come as different functions that match accordingly

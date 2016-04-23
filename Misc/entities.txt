@@ -1,0 +1,25 @@
+Map View (Any)
+  Opportunities
+    Discussion
+	Treasure
+	Opportunity
+  Resources
+  Guides
+  Merits
+
+WhitePaper (Present)
+  Opportunity
+  Resource
+  Guide
+  Treasure
+  Discussion
+  Merit
+  Individual
+    Location
+    Picture
+    Merits
+
+Views
+  Map
+  Individual
+  

@@ -1,0 +1,38 @@
+<html>
+<head>
+<script language="JavaScript" src="event_emitter.js"></script>
+<script language="JavaScript" src="cookie.js"></script>
+<script language="JavaScript" src="TimeController.js"></script>
+<script language="JavaScript" src="md5-min.js"></script>
+<script language="JavaScript">
+
+var controller;
+var Now, Present, Any, Will, Lack; //, Onlock, Fault;
+
+window.onload=function() {
+	controller = new TimeController("wss://localhost:5000/");
+	Now = controller.getTime('Now');
+	Any = controller.getTime('Any');
+	Present = controller.getTime('Present');
+	Will = controller.getTime('Will');
+	Lack = controller.getTime('Lack');
+//	Onlock = controller.getTime('Onlock');
+//	Fault = controller.getTime('Fault');
+}
+
+function cb(msg) { alert(JSON.stringify(msg)); }
+
+</script>
+</head>
+<body>
+
+<a href="javascript:Now({coords: [1,1]}, cb);" return=false >Now</a><br />
+<a href="javascript:Present({}, cb);" return=false >Present</a><br />
+<a href="javascript:Any({}, cb);" return=false >Any</a><br />
+<a href="javascript:Will({}, cb);" return=false >Will</a><br />
+<a href="javascript:Lack({}, cb);" return=false >Lack</a><br />
+<!-- a href="javascript:Onlock({}, deviceHandler);" return=false >Onlock</a><br / -->
+<!-- a href="javascript:Fault({}, cb);" return=false >Fault</a><br / -->
+
+</body>
+</html>

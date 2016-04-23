@@ -1,0 +1,20 @@
+fire{radiant}controls’(forth/respond/set);with’(as\correspond\see)
+water|stream|absolute;(internal/external)!side;(relative\familiar)
+earth<events>transfer!(keep/pass/down/up)?call!(seed\than\fall\be)
+space[ground]platform?(use/notify/switch).form?(grow\for\complete)
+
+{ now : “me.platform(use) \ map[23] | {search: xyz,} / weight -“ }
+{ any : “me.platform(notify) \ map[23] | {skill: test, resource: mine} / weight -“ }
+{ now : “me.platform(switch) \ map[24] | {as: of,} / weight -“ }
+
+air•entities•identity.(connect/reconnect),gain.(qualify\residence)
+
+
+
+dream(island)autonomy,(cognize/entrant/z)’base,(that\restore\know)
+
+entity is parsed by [\|/-] bones
+words and symbols prior to the bones are used to completion
+words & symbols always go in the same order \, |, /, -
+
+entity.indexof(‘\’)
