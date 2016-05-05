@@ -1,0 +1,41 @@
+Use Cases:
+
+0) I have an opportunity that I would like to provide
+Steps:
+
+1) I am seeking an opportunity like these skills and/or resources
+Steps:
+
+2) I have resources that I would like to make available and have them returned to me
+Steps:
+
+3) I have an organization which has access to individuals who could provide guidance
+Steps:
+
+4) I would like to know what sort of opportunities people have made available
+Steps:
+
+5) I found treasure on the side of the road, and would like to list it
+Steps:
+
+6) I have samples at my restaurant that I would like to make available per merit
+Steps:
+
+7) I have a truck full of resources, and I would like to make them visible as i move
+Steps:
+
+8) I would like a list of all resources at an available site or moving location
+Steps:
+
+9) I would like a list of all entrances to my opportunity, treasure or discussion
+Steps:
+
+10) My Operand has completed the Opportunity and I need to provide a merit exchange
+Steps:
+
+11) I would like a list of all opportunities, treasures and discussions at a location
+Steps:
+
+12) I am the Root Seed Operator and I would like to provide merit for the discussion
+Steps:
+

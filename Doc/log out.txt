@@ -1,0 +1,6 @@
+A window can be opened to reveal all of my documents on google docs.
+Yet I still needed to login at some point to enable such a function.
+Why require someone to login? It is duality put into an application.
+So great then is the power to be able to log out of the application.
+That needs to be coupled to email so that the user can restore data.
+Emphasis then is upon the root discussion educating them to log out.
